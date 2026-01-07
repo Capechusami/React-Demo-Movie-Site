@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import "../css/Navbar.css"
-
+// function for the navbar menu 
 function NavBar() {
     return <nav className="navbar">
         <div className="navbar-brand">
