@@ -76,7 +76,7 @@ npm run dev
 
 ---
 
-## 🧪 Available Scripts
+## 🧪 Available Script
 
 * `npm run dev` – Start development server
 * `npm run build` – Build for production
